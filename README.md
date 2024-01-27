@@ -3,10 +3,9 @@
 My name is Yoong Yuan Zhi <br>
 I am a Second Year Information Systems Student at Singapore Management University (SMU) <br>
 I am passionate about Data visualisation and Machine learning. Currently I am working on improving my Tableau skills and implementing automation functions that are useful to businesses. <br>
-I am also the 
 
 
-### What do I do?
+### Programming Languages I've worked with
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
