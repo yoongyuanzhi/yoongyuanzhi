@@ -22,7 +22,7 @@ I am passionate about Data visualisation and Machine learning. Currently I am wo
 </p>
 
 - I’m currently working on my <a href="https://yoongyuanzhi1.wixsite.com/my-site">personal website</a>.
-- My Linkedin profile <a href="https://www.linkedin.com/in/alekspopovic/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+- My Linkedin profile <a href="https://www.linkedin.com/in/yoongyuanzhi/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 
 ---
 
