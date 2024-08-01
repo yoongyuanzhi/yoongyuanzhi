@@ -1,7 +1,7 @@
 ### Hi, welcome to my GitHub page 👋
 
 My name is Yoong Yuan Zhi <br>
-I am a Second Year Information Systems Student at Singapore Management University (SMU) <br>
+I am a Third Year Information Systems Student at Singapore Management University (SMU) <br>
 I am passionate about Data visualisation and Machine learning. Currently I am working on improving my Tableau skills and implementing automation functions that are useful to businesses. <br>
 
 
