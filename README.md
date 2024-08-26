@@ -21,7 +21,6 @@ I specialise in building AI tools to enable organisations to interact with their
   <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-- I’m currently working on my <a href="https://yoongyuanzhi1.wixsite.com/my-site">personal website</a>.
 - My Linkedin profile <a href="https://www.linkedin.com/in/yoongyuanzhi/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 
 ---
