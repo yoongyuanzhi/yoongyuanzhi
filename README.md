@@ -2,7 +2,7 @@
 
 My name is Yoong Yuan Zhi <br>
 I am a Third Year Information Systems Student at Singapore Management University (SMU) <br><br>
-**Interest**
+**Interest**<br>
 I specialise in building Machine learning & AI tools to enable organisations to interact with their data more comprehensively<br>
 I also build Dashboards on Tableau to help visualise excel data
 
