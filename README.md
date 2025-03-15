@@ -3,8 +3,9 @@
 My name is Yoong Yuan Zhi <br>
 I am a Third Year Information Systems Student at Singapore Management University (SMU) <br><br>
 **Interest**<br>
-I specialise in building AI chatbots and knowledge graphs to enable organisations to interact with their data more effectively <br>
-I also build Dashboards on Tableau to help visualise excel data
+Project management (Lark,Notion,Jira,experience conducting sprint event such as daily stand up at corporate level) <br>
+AI chatbots knowledge graphs to enable organisations to interact with their data more effectively <br>
+Dashboards on Tableau to help visualise excel data
 
 
 ### Programming Languages I've worked with
