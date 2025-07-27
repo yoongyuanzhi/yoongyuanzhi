@@ -1,7 +1,7 @@
 ### Hi, welcome to my GitHub page 👋
 
 My name is Yoong Yuan Zhi <br>
-I am a Third Year Information Systems Student at Singapore Management University (SMU) <br><br>
+I am a Final Year Information Systems Student at Singapore Management University (SMU) <br><br>
 **Interest**<br>
 Project management (Lark,Notion,Jira,experience conducting sprint event such as daily stand up at corporate level) <br>
 AI chatbots knowledge graphs to enable organisations to interact with their data more effectively <br>
